@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @hirridwan
 - 👀 I’m interested in Web and Android Developer (Amateur, haha)
 - 🌱 I’m currently learning ReactJS, React Native, and Laravel
+- 👋 Contact: https://wa.me/6285860565852
 
 <!---
 hirridwan/hirridwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
